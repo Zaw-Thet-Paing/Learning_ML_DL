@@ -1,0 +1,202 @@
+area,num_bedrooms,num_bathrooms,location,price
+132,3,3,Nimman,458436
+136,3,1,Nimman,299744
+101,1,1,Hang Dong,421473
+218,1,1,Old City,445156
+50,3,1,Santitham,195300
+132,3,3,Santitham,548856
+151,4,2,Nimman,416760
+244,4,1,Old City,1194380
+117,3,2,Nimman,484614
+129,4,3,Chang Klan,515226
+181,4,3,Nimman,712235
+160,2,3,Nimman,463840
+179,4,1,Santitham,422261
+287,1,2,Santitham,1419789
+221,4,2,Santitham,821899
+190,4,2,Chang Klan,433200
+51,3,3,Santitham,198237
+282,1,1,Old City,751812
+265,4,3,Hang Dong,554380
+78,4,3,Old City,208338
+88,2,2,Old City,349272
+199,4,3,Santitham,409940
+217,4,2,Hang Dong,1015777
+219,2,1,Hang Dong,663132
+204,3,2,Hang Dong,711756
+80,4,1,Chang Klan,208240
+84,2,2,Santitham,225204
+273,1,3,Hang Dong,1250613
+160,3,3,Chang Klan,548480
+164,1,1,Nimman,801140
+50,1,1,Nimman,234600
+196,2,1,Chang Klan,838880
+118,4,2,Chang Klan,297714
+43,2,2,Santitham,188899
+271,2,1,Santitham,1244703
+294,2,3,Nimman,1166592
+82,2,2,Hang Dong,254282
+121,3,2,Nimman,454113
+293,4,2,Hang Dong,1123948
+64,1,1,Hang Dong,309824
+235,1,1,Santitham,1009560
+110,4,1,Old City,450340
+79,1,1,Old City,248376
+31,4,1,Chang Klan,132091
+83,1,3,Santitham,355738
+135,2,3,Hang Dong,415665
+289,1,1,Old City,1270733
+220,4,2,Hang Dong,463320
+247,4,1,Old City,1204866
+73,4,3,Old City,149431
+191,4,3,Old City,446176
+231,4,2,Santitham,704319
+299,3,3,Nimman,1450449
+244,3,1,Hang Dong,800320
+281,1,2,Santitham,1139455
+219,4,1,Santitham,574656
+242,1,1,Santitham,941380
+237,4,2,Santitham,776412
+266,4,1,Santitham,988190
+82,3,3,Chang Klan,390812
+246,3,1,Hang Dong,566292
+281,2,2,Santitham,741278
+217,3,2,Hang Dong,445935
+70,2,2,Chang Klan,190750
+186,2,1,Chang Klan,469650
+44,2,2,Hang Dong,108812
+94,2,2,Old City,190538
+38,2,1,Nimman,156750
+158,1,3,Old City,373512
+165,3,1,Old City,777645
+92,2,2,Old City,232300
+168,4,2,Santitham,797328
+110,3,1,Chang Klan,366850
+192,3,3,Old City,553344
+290,2,2,Chang Klan,878700
+260,1,2,Hang Dong,786760
+70,2,2,Nimman,255220
+57,1,1,Hang Dong,166326
+164,4,2,Hang Dong,786708
+230,3,3,Santitham,1014300
+297,4,2,Nimman,1120878
+62,1,2,Hang Dong,218922
+77,1,3,Hang Dong,373681
+91,4,2,Nimman,435526
+245,1,1,Nimman,956970
+128,4,1,Hang Dong,411520
+201,3,1,Nimman,734454
+243,4,3,Hang Dong,603612
+64,3,2,Hang Dong,260800
+256,4,1,Santitham,694528
+130,1,3,Old City,398060
+160,4,2,Hang Dong,636160
+286,1,3,Chang Klan,942656
+34,4,1,Old City,110636
+247,4,1,Old City,1020851
+284,2,1,Old City,603500
+236,1,3,Santitham,1146724
+44,2,3,Hang Dong,111584
+71,1,1,Santitham,297632
+208,2,3,Hang Dong,846976
+92,3,1,Santitham,331476
+260,4,1,Santitham,537160
+270,1,2,Chang Klan,602640
+81,1,3,Santitham,336636
+125,4,1,Nimman,396125
+251,1,1,Chang Klan,1043658
+260,1,3,Santitham,1111500
+266,2,2,Old City,561260
+172,1,2,Nimman,600796
+200,3,1,Nimman,816200
+58,3,3,Nimman,152076
+65,4,2,Chang Klan,311675
+42,1,3,Santitham,194964
+189,4,3,Santitham,845208
+216,3,1,Old City,1006560
+272,1,2,Old City,963152
+115,1,1,Nimman,544985
+95,4,2,Old City,313975
+199,3,2,Chang Klan,748439
+74,1,2,Santitham,294150
+91,4,2,Nimman,396942
+163,3,2,Old City,468788
+57,4,3,Chang Klan,227373
+137,2,1,Chang Klan,453744
+73,1,3,Old City,252580
+157,2,2,Santitham,739313
+260,3,1,Old City,1124240
+219,2,2,Nimman,817527
+254,2,1,Old City,915670
+150,3,3,Chang Klan,528900
+145,4,1,Old City,677295
+262,2,1,Santitham,1195506
+288,4,1,Hang Dong,1408320
+227,2,1,Old City,998119
+166,4,1,Santitham,602580
+194,3,2,Santitham,944780
+254,2,1,Chang Klan,802640
+263,3,1,Santitham,725354
+201,2,3,Santitham,994146
+181,3,1,Santitham,405802
+189,3,3,Santitham,867510
+125,2,2,Nimman,382875
+262,2,1,Nimman,583736
+209,2,3,Chang Klan,960355
+142,1,3,Old City,414498
+81,4,2,Santitham,262926
+297,1,1,Old City,595485
+142,1,1,Old City,350314
+130,3,3,Chang Klan,488150
+142,2,1,Santitham,294508
+110,4,3,Santitham,220330
+216,3,1,Hang Dong,835920
+142,1,3,Old City,375590
+31,2,1,Old City,65627
+159,3,2,Nimman,783552
+249,2,1,Hang Dong,903621
+83,3,1,Nimman,377733
+253,2,2,Nimman,1017313
+254,1,1,Nimman,748284
+155,4,2,Chang Klan,716255
+159,1,1,Chang Klan,550776
+82,4,3,Nimman,179826
+201,2,3,Hang Dong,572046
+247,3,1,Old City,1176214
+189,1,1,Hang Dong,645435
+227,4,1,Santitham,784966
+276,1,3,Chang Klan,1164720
+232,4,1,Old City,850976
+213,1,3,Old City,931449
+152,4,2,Santitham,521816
+284,4,3,Santitham,892044
+127,2,3,Nimman,620141
+227,4,2,Chang Klan,864870
+269,2,3,Chang Klan,732487
+173,4,1,Hang Dong,384752
+126,3,1,Nimman,318906
+230,3,3,Nimman,485760
+153,3,1,Nimman,640611
+216,4,3,Nimman,552528
+288,2,1,Chang Klan,1165824
+177,2,1,Chang Klan,732249
+281,4,3,Nimman,745493
+176,3,1,Hang Dong,408144
+177,3,3,Old City,632421
+228,2,1,Old City,872784
+157,3,1,Hang Dong,614969
+68,1,2,Nimman,145384
+158,2,2,Chang Klan,772936
+296,3,3,Old City,1191696
+180,2,2,Santitham,775080
+128,1,3,Santitham,371328
+292,2,2,Hang Dong,785188
+281,2,1,Nimman,1134959
+173,2,3,Old City,347557
+141,2,3,Nimman,318660
+89,1,1,Old City,350838
+31,4,3,Hang Dong,113863
+283,2,3,Hang Dong,1193977
+169,2,2,Santitham,835705
+66,3,3,Nimman,267960
+189,2,1,Santitham,603099
